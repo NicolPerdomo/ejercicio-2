@@ -1,0 +1,7 @@
+C:\Users\Nicol\source\repos\problema 1\problema 1\bin\Debug\problema 1.exe.config
+C:\Users\Nicol\source\repos\problema 1\problema 1\bin\Debug\problema 1.exe
+C:\Users\Nicol\source\repos\problema 1\problema 1\bin\Debug\problema 1.pdb
+C:\Users\Nicol\source\repos\problema 1\problema 1\obj\Debug\problema 1.csprojAssemblyReference.cache
+C:\Users\Nicol\source\repos\problema 1\problema 1\obj\Debug\problema 1.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\problema 1\problema 1\obj\Debug\problema 1.exe
+C:\Users\Nicol\source\repos\problema 1\problema 1\obj\Debug\problema 1.pdb
